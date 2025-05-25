@@ -47,3 +47,10 @@ body: JSON.stringify(basket)
 clearBasket();
 navigate("/basket/confirmation");
 });
+### 📩 Message to Client:
+
+Hello! Thank you for reviewing the submitted tasks.  
+I completed all 3 milestones.  
+However, I noticed the contract value is set to 5 USD, while the project budget is 13 USD as mentioned in the job post.  
+Please update the milestone amount to 13 USD before releasing the payment.  
+Thanks so much!
